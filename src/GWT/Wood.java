@@ -9,8 +9,7 @@ public class Wood {
 	public static void main(String[] args) {
 		
 		// TODO Auto-generated method stub
-	WebDriver driver=	WebDriverManager.chromeDriver().create();
-	
+ WebDriver driver=WebDriverManager.chromedriver().create();
 
 }
 }
